@@ -15,7 +15,10 @@ Features Summary
 - **NEW** Supports Custom Metadata, rollups can be included in Change Sets and Packages for easier deployment
 
 Please refer to the blog posts below for more detailed information.
-
+<a href="https://githubsfdeploy.herokuapp.com?owner=hiepllp&repo=declarative-lookup-rollup-summaries">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
 Community
 ---------
 
